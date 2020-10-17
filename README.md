@@ -1,6 +1,8 @@
-<font size="12"><b>PREDICTING FLIGHT DELAYS</b></font>
+
 
 ![Figure_1](img/Figure_1.png)
+
+<font size="12"><b>PREDICTING FLIGHT DELAYS</b></font>
 
 # Introduction
 
